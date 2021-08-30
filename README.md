@@ -73,7 +73,7 @@ cd xdd && go build
 ```
 
 ## 第六步
-先[配置文件](https://github.com/EylinX/xdd/blob/main/README.md#配置教程) 后输入：
+先[配置文件](https://github.com/EylinSir/jdx/tree/main#配置教程) 后输入：
 ```bash
 ./xdd
 ```

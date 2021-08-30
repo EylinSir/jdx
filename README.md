@@ -86,7 +86,7 @@ cd xdd && go build
 nohup ./xdd >/dev/null 2>&1 &
 ```
 或
-通过systemd方法添加[开机自启](https://github.com/EylinX/xdd/blob/main/README.md#开机自启)
+通过systemd方法添加[开机自启](https://github.com/EylinSir/jdx/blob/main/README.md#开机自启)
 
 
 # 配置教程

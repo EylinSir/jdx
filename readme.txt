@@ -65,7 +65,7 @@ yum install git -y
 拉取源码（cd到想安装的目录再运行命令）
 
 ```bash
-cd /etc && git clone https://github.com/EylinX/xdd.git
+cd /etc && git clone https://github.com/EylinSir/jdx.git
 ```
 编译 xdd
 ```bash
